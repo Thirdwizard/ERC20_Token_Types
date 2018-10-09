@@ -101,12 +101,12 @@ Understanding of Solidity or proficient with a language like JavaScript, Swift, 
      4. Pay the gas price, enjoy your tokens.
 
 ## Contributing
-Nothing in place. Feel free to message me if you want to contribute. [email](mailto:halls7588@gmail.com)
+Nothing in place. Feel free to message me if you want to contribute. [email](mailto:cbwcoin@gmail.com)
 
 
 ## Authors
 
-* **Stephen Hall** - *Initial work* - [halls7588](https://github.com/halls7588)
+* **Stephen Hall** - *Initial work*
 
 See also the list of [contributors](https://github.com/halls7588/ERC20_Token_Types/graphs/contributors) who participated in this project.
 
