@@ -118,8 +118,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ### Donations Excepted
 Send to:
 
-**Bitcoin:** 3FjpxkdTSrPz6KYk1oWf3yTFiZgei8eQ3X
-
-**Ethereum:** 0xa961d6886359df290B49d752405CbB7ac0adB123
-
-**Monero:** 43gnpSr6mruj2yxQuQaM4J8xWqcy3ogGN2YPzSZQry8EcZEjpkCE1ioTePGmaJRXBaVZetTegMNL22riuHFmcTcNJCZ3v88
+**Ethereum:** 0x31D04DA17393A089eB34b36567f18FB7E2D09b47
